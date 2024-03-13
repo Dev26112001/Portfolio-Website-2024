@@ -1,9 +1,28 @@
-  =>  Template Name    : ProMan - Personal Portfolio HTML Template
+Website is completely owned by Devjyoti Mohanty
 
-  =>  Template Link    : https://htmlcodex.com/personal-portfolio-html-template
+Devjyoti Mohanty, a dynamic 22-year-old digital nomad with a strong background in web development, app development, and cloud computing. My journey in the digital realm began with crafting websites on CMS platforms like WordPress and Joomla, evolving into a seasoned professional with expertise in frontend development and iOS mobile app development.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+🌐 Technical Proficiency:
+I specialize in cloud computing, holding the AWS Cloud Practitioner Certification. My diverse skill set encompasses a wide array of technical and business skills, allowing me to navigate seamlessly through the ever-evolving tech landscape.
 
-  =>  Author Website   : https://htmlcodex.com
+
+💻 CRM Expertise:
+I am well-versed in Salesforce, bringing a wealth of experience in customer relationship management to the table. My proficiency extends beyond conventional development, enabling me to align technical solutions with business objectives effectively.
+
+
+📈 Entrepreneurial Ventures:
+In addition to my role in web and app development, I engage in entrepreneurial endeavors. I curate and sell software, digital products like Notion templates, and APIs, catering to market demands and requirements.
+
+
+📷 Passion for Creativity:
+Beyond the digital realm, I am an avid photographer and videographer, channeling my passion into a professional pursuit. As a seasoned YouTuber since 2016, my channel boasts an overall viewership of 100K+, where I share insights into my daily life, tech updates, and the places I explore.
+
+
+🎥 YouTube Channel:
+Feel free to explore my YouTube channel, where I create content to fuel my passion and satiate my creative hunger. Whether it's daily life vlogging or sharing tech insights, my niche revolves around providing engaging and informative content.
+
+
+Let's connect and explore opportunities at the intersection of technology, creativity, and entrepreneurship!
+
+
